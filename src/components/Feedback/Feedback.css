@@ -1,0 +1,37 @@
+.Section__general {
+  background-color: #f5f5f5;
+  padding: 20px;
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  border-radius: 5px;
+  margin-bottom: 20px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+.Btn__styled {
+  background-color: #f5f5f5;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+.Title__styled {
+  font-size: 24px;
+  font-weight: 700;
+  margin-bottom: 20px;
+}
+.List__styled {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+}
+.Item__styled {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 20px;
+  border-bottom: 1px solid #ccc;
+}
